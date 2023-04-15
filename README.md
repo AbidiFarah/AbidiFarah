@@ -58,9 +58,15 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbidiFarah&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
+[![Farah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbidiFarah&theme=merko)](https://github.com/AbidiFarah/github-readme-activity-graph)
+
+
+
+
+
 
