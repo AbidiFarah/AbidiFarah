@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Labidifarah090@gmail.com**
 
-- 📄 Know about my experiences [I have 9 months experiences in Agena3000](I have 9 months experiences in Agena3000)
+- 📄 Know about my experiences [I have 9 months experiences in Agena3000]
 
 <h3 align="left">Let's Connect:</h3>
 
