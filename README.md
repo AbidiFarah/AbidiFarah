@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats](https://www.bing.com/images/search?view=detailV2&ccid=QGLHXcUV&id=57CFE0D62B35543D8A954F334705A3B3A64CEB1E&thid=OIP.QGLHXcUVVnf0q62v-NH9UQHaEK&mediaurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fscience-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-133706018.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.4062c75dc5155677f4abadaff8d1fd51%3Frik%3DHutMprOjBUczTw%26pid%3DImgRaw%26r%3D0&exph=450&expw=800&q=it+developper+image+graphique&simid=608036016610683317&form=IRPRST&ck=9FD8A68034062849866E9E9B6141084A&selectedindex=16&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_IeRQbqAO*cp_B8AB2C4DE8C404906DA2940467FCF5BA*mid_FFF44278337B821A1B1C1BD9ECFC4301D8258102*simid_607997748459088213*thid_OIP.IeRQbqAOpSB9xdx0c1tH5wHaEm&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)](https://thumbs.dreamstime.com/b/science-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-133706018.jpg)" /> 
+  <img src="[[[[https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats](https://www.bing.com/images/search?view=detailV2&ccid=QGLHXcUV&id=57CFE0D62B35543D8A954F334705A3B3A64CEB1E&thid=OIP.QGLHXcUVVnf0q62v-NH9UQHaEK&mediaurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fscience-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-133706018.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.4062c75dc5155677f4abadaff8d1fd51%3Frik%3DHutMprOjBUczTw%26pid%3DImgRaw%26r%3D0&exph=450&expw=800&q=it+developper+image+graphique&simid=608036016610683317&form=IRPRST&ck=9FD8A68034062849866E9E9B6141084A&selectedindex=16&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_IeRQbqAO*cp_B8AB2C4DE8C404906DA2940467FCF5BA*mid_FFF44278337B821A1B1C1BD9ECFC4301D8258102*simid_607997748459088213*thid_OIP.IeRQbqAOpSB9xdx0c1tH5wHaEm&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)](https://thumbs.dreamstime.com/b/science-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-133706018.jpg)](https://www.dreamstime.com/science-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-image133706018)](https://thumbs.dreamstime.com/z/science-experiment-laboratory-there-chemistry-equipment-microscope-computer-table-science-technology-concept-133706018.jpg)" /> 
 </p>
 
 
@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
-[![Farah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbidiFarah&theme=merko)](https://github.com/AbidiFarah/github-readme-activity-graph)
+
 
 
 
