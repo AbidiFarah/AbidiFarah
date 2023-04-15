@@ -34,7 +34,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiFarah&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
@@ -44,6 +44,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
-
-[![farah github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph)
 
